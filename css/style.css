@@ -4038,6 +4038,7 @@ figcaption {
 -------------------------------------------------------*/
 .logo {
   line-height: 1;
+  max-width: 250px;
 }
 
 /* Nav Flexbox
